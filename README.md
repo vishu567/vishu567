@@ -16,7 +16,7 @@
 - :computer: I am a programmer at `Codeforces`, `Leetcode`, `CodeStudio`, `GFG`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/vishu567/vishu567/blob/main/Vishal_Resume.pdf).
 
 <br>
  </div>
