@@ -2,18 +2,23 @@
 
 <h1 align="center" style="color:purple;">Hi there 👋, I'm VISHAL</h1>
 <h3 align="center">A passionate software developer from India (IN)</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alucard017.alucard017" />
-<br/>
 
-<div align="center">
+<div>
  
- 🔭 I’m currently studying MCA from **NIT Jamshedpur**
- 
- 🌱 I’m currently learning **NodeJs Express React MongoDB**
+## <img align="center" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-💬 Ask me about **C++, DSA, CSS, HTML, JavaScript... or anything [here](https://github.com/vishu567/For-Issues/issues)**
+<br>
 
+<img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/codingVectorArt.gif?raw=true" width=30%>
 
+- :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
+- :technologist: I love using Software to solve every `Problem`.
+- :computer: I am a programmer at `Codeforces`, `Leetcode`, `CodeStudio`, `GFG`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+
+<br>
  </div>
  
 <div align="center"> 
@@ -29,7 +34,7 @@
 </div>
 
  <hr/>
- 
+ <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
